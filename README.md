@@ -32,11 +32,11 @@ The dataset comprises various metrics related to online retail transactions. The
 | __Country__ | The country of the customer. |
 
 ##  File Descriptions
--  **`customer-segmentation-recommendation-system`**: Jupyter notebook containing data exploration, visualization, modeling, and evaluation code.
--  **`Customer.csv`**: CSV file containing the online retail dataset.
--  **`README.md`**: This file, providing an overview of the project.
+  **`customer-segmentation-recommendation-system`**: Jupyter notebook containing data exploration, visualization, modeling, and evaluation code.
+  **`Customer.csv`**: CSV file containing the online retail dataset.
+  **`README.md`**: This file, providing an overview of the project.
 
 
 ##  Additional Resources
-- 🌐 **Dataset Source**: Access the original dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+  **Dataset Source**: Access the original dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 
